@@ -17,3 +17,5 @@ CSS – Enhances the UI with styling and animations.
 JavaScript – Manages game logic, user input, and AI moves.
 
 Output :-
+![Image](https://github.com/user-attachments/assets/1b30809f-278c-4147-94e1-9974424451d5)
+![Image](https://github.com/user-attachments/assets/9dcdc552-5f3c-48d3-bb71-8e9e422d1986)
